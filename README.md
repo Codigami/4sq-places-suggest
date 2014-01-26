@@ -17,3 +17,4 @@ and JFFourSquarePlacesViewController.m.
  
  Happy XCoding!!
  
+ ![ScreenShot](https://www.dropbox.com/s/qp6m04uviiu33f2/photo.PNG)
