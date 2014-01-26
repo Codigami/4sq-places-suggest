@@ -17,4 +17,4 @@ and JFFourSquarePlacesViewController.m.
  
  Happy XCoding!!
  
- ![ScreenShot](https://www.dropbox.com/s/qp6m04uviiu33f2/photo.PNG)
+ ![ScreenShot](https://dl-web.dropbox.com/get/photo.PNG?_subject_uid=141169483&w=AABFBJ5kcnmCsno3moUWrrNIyqmfbTPEg0E2IswtWSvnZA)
